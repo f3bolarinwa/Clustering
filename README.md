@@ -2,7 +2,7 @@
 
 project description
 
-dataset (Credit+Card+Customer+Data.xlsx)
+dataset (Credit+Card+Customer+Data.xlsx). please note that dataset available for open-source data science competition at kaggle.com
 
 summary slides
 
